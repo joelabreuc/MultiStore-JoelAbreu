@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:get get/get.dart';
+import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
 import 'package:joel_abreu_multistore/views/buyers/auth/register_screen.dart';
 import 'package:joel_abreu_multistore/views/buyers/main_screen.dart';
